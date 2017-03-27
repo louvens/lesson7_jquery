@@ -4,19 +4,19 @@
 LIS 2360:  Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+(3, 26, 2017)
 
 ### Student Name:  
-(First and Last Name)
+(Louvens Merilien)
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+(This project teaches the basic framework of JQuery)
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+(https://louvens.github.io/lesson7_jquery/)
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. The jQuery animate() method lets	you	create custom animations.
+2. The jQuery hover() method specifies two functions: mouseenter and mouseleave	to	run	when the mouse pointer hovers	
+over the selected elements.
+3. To clone all of the elements NEXT to an h3 element the statement $("h3").next().clone().appendTo(“article”) can be used.
